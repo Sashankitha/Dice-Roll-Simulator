@@ -18,4 +18,4 @@ Compact, efficient, and fun, the dice roll simulator showcases Python’s simpli
   When we enter the "Y" in the Terminal it show the output and "N" for end the process.
 </h5>
 <img src= "WhatsApp Image 2024-11-22 at 1.18.17 PM.jpeg">
-<link href = "091c3-762bf">
+<link href = "091c3-d0472">
